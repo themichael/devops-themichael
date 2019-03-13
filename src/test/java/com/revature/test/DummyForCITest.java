@@ -14,6 +14,6 @@ public class DummyForCITest {
 	
 	@Test
 	public void testFalse() {
-		assertFalse(false);
+		assertFalse(true);
 	}
 }
